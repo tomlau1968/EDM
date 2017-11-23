@@ -1,0 +1,52 @@
+#container {
+  width: 800px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+}
+#header {
+  width: 500px;
+  margin: auto;
+  margin-top: 40px;
+}
+#date {
+  width: 600px;
+  height: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 14px;
+  padding: 0px;
+  letter-spacing: 1px;
+}
+#container .btn01 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #999;
+  text-align: center;
+}
+#dateContainer {
+}
+.line {
+  width: 500px;
+}
+#line {
+  width: 300px;
+  height: 20px;
+}
+.spacebar {
+  height: 20px;
+  width: 800px;
+}
+#container .btn01 a {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 15px;
+  color: #999;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  width: 132px;
+}
